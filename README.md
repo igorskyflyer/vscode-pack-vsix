@@ -1,5 +1,8 @@
 # VSCode Pack VSIX extension
 
+![Installs](https://vsmarketplacebadge.apphb.com/installs/igordvlpr.pack-vsix?style=flat&color=2d97e3)
+![Rating](https://vsmarketplacebadge.apphb.com/rating/igordvlpr.pack-vsix.svg?style=flat&color=2d97e3)
+
 A Visual Studio Code extension build and packs extensions for Visual Studio Code right from the editor itself!
 
 <h4 style="color: #F00">Currently, only Windows is supported.</h4>
