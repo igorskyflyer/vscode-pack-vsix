@@ -34,19 +34,3 @@ A Visual Studio Code extension build and packs extensions for Visual Studio Code
 - simply press CTRL + Alt + P,
 - wait for the build to finish.
   <br><br>
-
-## Sample
-
-![Palette](https://github.com/igorskyflyer/vscode-pack-vsix/raw/master/screenshots/palette.png)
-
-To activate the extension, open the command palette and choose "Build extension".
-<br><br>
-
-![Status](https://github.com/igorskyflyer/vscode-pack-vsix/raw/master/screenshots/status.png)
-
-Check the status of the build in the statusbar.
-<br><br>
-
-![Built](https://github.com/igorskyflyer/vscode-pack-vsix/raw/master/screenshots/built.png)
-
-The extension will save the generated extension in your project's root folder.
