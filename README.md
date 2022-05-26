@@ -50,3 +50,4 @@ Check the status of the build in the statusbar.
 ![Built](https://github.com/igorskyflyer/vscode-pack-vsix/raw/master/screenshots/built.png)
 
 The extension will save the generated extension in your project's root folder.
+
