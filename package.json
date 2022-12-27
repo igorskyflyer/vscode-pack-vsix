@@ -2,7 +2,7 @@
 	"name": "pack-vsix",
 	"displayName": "Pack VSIX",
 	"description": "Build your extensions right from the editor.",
-	"version": "0.0.8",
+	"version": "0.0.9-alpha",
 	"publisher": "igordvlpr",
 	"license": "SEE LICENSE IN LICENSE.txt",
 	"author": {
